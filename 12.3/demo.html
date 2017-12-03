@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    // 二维数组中的深拷贝
+    var a1 = [[1, 2, 3], 4, 5],
+            a2;
+    a2 = a1.slice(0);
+    a1[0][0] = 0;
+    console.log(a2[0][0]); // 0
+    // 这里之所以为0,是因为slice 或者是 concat只是对第一维部分的引用，而第二维才存放数据的内容
+    // 这里不难想到之前的实现对象深拷贝的方法，写法如下
+    function extend(destination, source){
+        for(var property in source){
+            destination[property] = source[property];
+        }
+    }
+
+    // 所以若想深度复制对象，还得在该函数上继续修改
+
+    function getType(o){
+        var _t;
+        return ( (_t = typeof(o)) == "object" ? o==null && "null" || Object.property.toString().call(o).slice(8, -1): _t ).toLowerCase();
+    }
+
+    function extend(destination, source) {
+        for(var p in source){
+            if( getType(source[p])=="array" || getType(source[p]) == "object" ){
+                destination[p] = getType(source[p])=="array"?[]:{};
+                arguments.callee(destination[p], source[p]);
+            }else{
+                destination[p] = source[p];
+            }
+        }
+    }
+</script>
+</body>
+</html>
