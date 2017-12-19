@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>step1</title>
+</head>
+<body>
+<script>
+    function identify() {
+        return this.name.toUpperCase();
+    }
+
+    function speak() {
+        var greeting = "Hello, I'm " + identify.call(this);
+        console.log(greeting);
+    }
+
+    var me = {
+        name: "Kyle"
+    };
+
+    var you = {
+        name: "Reader"
+    };
+
+
+    identify.call(me);
+    identify.call(you);
+
+    speak.call(me);  // Hello,I'm Kyle
+    speak.call(you);  // Hello,I'm Reader
+</script>
+</body>
+</html>

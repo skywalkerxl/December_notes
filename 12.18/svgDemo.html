@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SVG动画demo</title>
+</head>
+<body>
+<svg width="22px" height="22px">
+    <circle r="8" cx="11" cy="11" fill="#fff" stroke="#2492fc">
+        <animate attributeName="r" from="8" to="10" dur="0.3s" begin="mouseover" fill="freeze" class="magnify"></animate>
+        <animate attributeName="r" from="10" to="8" dur="0.3s" begin="mouseout" fill="freeze" class="shrink"></animate>
+    </circle>
+</svg>
+</body>
+</html>
