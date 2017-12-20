@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>隐式绑定</title>
+</head>
+<body>
+<script>
+
+    (function () {
+        // 这里的foo被obj所拥有，因此this隐式绑定到obj上
+        function foo() {
+            console.log(this.a);
+        }
+        var obj = {
+            a: 2,
+            foo: foo
+        }
+        obj.foo();
+    })();
+
+    (function () {
+        // 对象属性链上只有上一层或者最后一层在调用位置中起作用
+        function foo() {
+            console.log(this.a);
+        }
+        var obj1 = {
+            a: 40,
+            foo: foo
+        }
+        var obj2 = {
+            a: 2,
+            obj1: obj1
+        }
+        obj2.obj1.foo();
+    })();
+</script>
+</body>
+</html>

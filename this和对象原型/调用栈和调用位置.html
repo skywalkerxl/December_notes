@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>调用栈和调用位置</title>
+</head>
+<body>
+<script>
+    function baz() {
+        // 当前调用栈是 baz
+        // 当前调用位置是 全局作用域
+        console.log("baz");
+        bar();
+    }
+    
+    function bar() {
+        // 当前调用栈是 bar
+        // 当前调用位置是 baz
+        console.log("bar");
+        foo();
+    }
+    
+    function foo() {
+        // 当前调用栈是 foo
+        // 当前调用位置是 bar
+        console.log("foo");
+    }
+    baz();
+</script>
+</body>
+</html>

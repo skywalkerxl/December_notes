@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>默认绑定</title>
+</head>
+<body>
+<script>
+    function foo() {
+        console.log(this.a); // 函数调用时应用了this的默认绑定，
+    }
+    var a = 2;
+    foo();
+</script>
+</body>
+</html>
