@@ -1,0 +1,113 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clear:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.wall-container {
+  border: 1px solid #C1BBBE;
+  border-top: none;
+  margin: 30px 20px;
+}
+.wall-container .list-content {
+  height: 60px;
+  margin: 0px 0px;
+  padding: 20px;
+  padding-left: 120px;
+  padding-right: 120px;
+  background: #EEE;
+  border-radius: 0px;
+  box-shadow: 0 0 0px #82777B;
+  border-top: 1px solid #C1BBBE;
+}
+.wall-container .list-content .wall-wrapper {
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  border-right: 1px solid #C1BBBE;
+}
+.wall-container .list-content .wall-icon-wrapper {
+  width: 80px;
+  height: 60px;
+  padding-right: 20px;
+  margin-left: -100px;
+  text-align: center;
+  line-height: 60px;
+  border-right: 1px solid #C1BBBE;
+}
+.wall-container .list-content .wall-icon-wrapper .wall-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.wall-container .list-content .wall-name-wrapper {
+  width: 19%;
+  text-align: center;
+  line-height: 30px;
+  box-sizing: border-box;
+}
+.wall-container .list-content .wall-name-wrapper .wall-login-name,
+.wall-container .list-content .wall-name-wrapper .wall-nick-name {
+  font-weight: 200;
+  line-height: 30px;
+  text-align: center;
+}
+.wall-container .list-content .wall-name-wrapper .wall-nick-name {
+  color: #C1BBBE;
+}
+.wall-container .list-content .wall-message {
+  width: 60%;
+  line-height: 70px;
+  box-sizing: border-box;
+}
+.wall-container .list-content .wall-message .message-wrapper {
+  display: inline-block;
+  max-height: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 30px;
+  text-align: justify;
+  overflow-y: auto;
+}
+.wall-container .list-content .wall-message .message-wrapper .message-content {
+  line-height: 30px;
+}
+.wall-container .list-content .wall-add-time {
+  width: 20%;
+  box-sizing: border-box;
+}
+.wall-container .list-content .add-thumb {
+  width: 80px;
+  margin-right: -120px;
+  padding-left: 20px;
+  line-height: 70px;
+  text-align: center;
+  border-right: none;
+  box-sizing: content-box;
+}
+.wall-container .list-content .add-thumb .thumb-img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.wall-container .list-content:hover {
+  background-color: #E1E2E3;
+}

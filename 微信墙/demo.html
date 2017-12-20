@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微信墙部分</title>
+    <link rel="stylesheet" href="demo.css">
+
+    <script src="timeago.min.js"></script>
+</head>
+<body>
+<div class="wall-container">
+    <ul class="">
+        <li class="list-content clear">
+            <!-- 头像 NVC_ICON -->
+            <div class="wall-icon-wrapper wall-wrapper fl">
+                <img src="0.jpg" class="wall-icon">
+            </div>
+            <div class="wall-name-wrapper wall-wrapper fl">
+                <!-- 昵称 NVC_NICK_NAME -->
+                <strong class="wall-login-name">吕成军</strong><br>
+                <!-- 嘉宾名字 NVC_LOGIN_NAME -->
+                <span class="wall-nick-name">诗鑫</span>
+            </div>
+            <!-- 发送信息 NVC_MESSAGE -->
+            <div class="wall-message wall-wrapper fl">
+                <div class="message-wrapper">
+                    <span class="message-content">大家好，我是新人大家好，我是新人大家好，<我是></我是>新人大家好，我是新人大家好，我是新人大家好，我是新人</span>
+                </div>
+            </div>
+            <!-- 发送时间 DTM_ADD_TIME -->
+            <div class="wall-add-time wall-wrapper fl">
+                <span id="add-time" data-timeago="2017-12-16 09:20:00">2017-12-20</span>
+            </div>
+            <div class="add-thumb wall-wrapper fl">
+                <img class="thumb-img" src="thumb.png">
+            </div>
+        </li>
+    </ul>
+</div>
+<script>
+    timeago().render(document.getElementById('add-time'), 'zh_CN');
+</script>
+</body>
+</html>
