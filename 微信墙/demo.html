@@ -8,6 +8,10 @@
     <script src="timeago.min.js"></script>
 </head>
 <body>
+
+<div class="wall-bg canvas-wrap" id="wall-bg">
+    <div id="canvas" class="gradient"></div>
+</div>
 <div class="wall-container">
     <ul class="">
         <li class="list-content clear">
@@ -40,5 +44,19 @@
 <script>
     timeago().render(document.getElementById('add-time'), 'zh_CN');
 </script>
+
+<!-- Main library -->
+<script src="js/three.min.js"></script>
+
+<!-- Helpers -->
+<script src="js/projector.js"></script>
+<script src="js/canvas-renderer.js"></script>
+
+<!-- Visualitzation adjustments -->
+<script src="js/3d-lines-animation.js"></script>
+
+<!-- Animated background color -->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/color.js"></script>
 </body>
 </html>

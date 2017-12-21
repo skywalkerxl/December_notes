@@ -14,8 +14,13 @@ li {
   content: "";
   clear: both;
 }
+.wall-bg {
+  overflow: hidden; height: 100%;
+  box-sizing: border-box;
+}
 
 .wall-container {
+  display: none; z-index: 2; position: relative;
   border: 1px solid #C1BBBE; border-top:none; margin: 30px 20px;
   .list-content {
     height: 60px; margin: 0px 0px; padding: 20px; padding-left: 120px; padding-right: 120px;
