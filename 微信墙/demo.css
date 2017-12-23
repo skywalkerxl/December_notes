@@ -1,3 +1,4 @@
+/* 默认样式重置 */
 html,
 body {
   margin: 0;
@@ -22,100 +23,179 @@ li {
   content: "";
   clear: both;
 }
+.dhidden {
+  display: none;
+}
+.vhidden {
+  visibility: hidden;
+}
+/* 微信墙样式 */
+body,
+html {
+  height: 100%;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  height: 1px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.2);
+}
 .wall-bg {
-  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
   height: 100%;
   box-sizing: border-box;
 }
 .wall-container {
-  display: none;
   z-index: 2;
   position: relative;
-  border: 1px solid #C1BBBE;
   border-top: none;
-  margin: 30px 20px;
+  padding: 0.6rem 1.2rem;
+  /* 列表内样式 */
 }
 .wall-container .list-content {
-  height: 60px;
-  margin: 0px 0px;
-  padding: 20px;
-  padding-left: 120px;
-  padding-right: 120px;
-  background: #EEE;
-  border-radius: 0px;
+  height: 1.9rem;
+  margin-bottom: 0.2rem;
+  padding: 0.4rem;
+  padding-left: 2.7rem;
+  padding-right: 2rem;
+  color: #ffffff;
+  font-size: 16px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 0.2rem;
   box-shadow: 0 0 0px #82777B;
-  border-top: 1px solid #C1BBBE;
+  /* 分模块部分 */
+  /* 微信头像 */
+  /* 微信login_code与nick_name部分 */
+  /* 微信消息部分 */
+  /* 发送时间 DTM_ADD_TIME部分 */
+  /* 点赞部分 */
 }
 .wall-container .list-content .wall-wrapper {
-  height: 60px;
+  height: 1.9rem;
   text-align: center;
-  line-height: 60px;
+  line-height: 1.9rem;
   border-right: 1px solid #C1BBBE;
 }
 .wall-container .list-content .wall-icon-wrapper {
-  width: 80px;
-  height: 60px;
-  padding-right: 20px;
-  margin-left: -100px;
+  width: 1.9rem;
+  height: 1.9rem;
+  padding-right: 0.4rem;
+  margin-left: -2.3rem;
   text-align: center;
   line-height: 60px;
   border-right: 1px solid #C1BBBE;
 }
 .wall-container .list-content .wall-icon-wrapper .wall-icon {
-  width: 60px;
-  height: 60px;
+  width: 1.9rem;
+  height: 1.9rem;
   border-radius: 50%;
 }
 .wall-container .list-content .wall-name-wrapper {
   width: 19%;
   text-align: center;
-  line-height: 30px;
+  line-height: 0.95rem;
   box-sizing: border-box;
 }
 .wall-container .list-content .wall-name-wrapper .wall-login-name,
 .wall-container .list-content .wall-name-wrapper .wall-nick-name {
   font-weight: 200;
-  line-height: 30px;
+  line-height: 0.95rem;
   text-align: center;
+  font-size: 0.4rem;
+}
+.wall-container .list-content .wall-name-wrapper .wall-login-name {
+  color: #19b5fe;
+  font-weight: 400;
 }
 .wall-container .list-content .wall-name-wrapper .wall-nick-name {
   color: #C1BBBE;
 }
 .wall-container .list-content .wall-message {
   width: 60%;
-  line-height: 70px;
+  line-height: 1.9rem;
+  font-size: 0.4rem;
   box-sizing: border-box;
+  overflow-y: auto;
 }
 .wall-container .list-content .wall-message .message-wrapper {
   display: inline-block;
-  max-height: 60px;
-  padding-left: 10px;
-  padding-right: 10px;
-  line-height: 30px;
+  max-height: 1.9rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  line-height: 0.95rem;
   text-align: justify;
-  overflow-y: auto;
+  font-weight: 200;
 }
 .wall-container .list-content .wall-message .message-wrapper .message-content {
-  line-height: 30px;
+  line-height: 0.95rem;
+}
+.wall-container .list-content .wall-message .message-wrapper .message-content .emoji-message {
+  display: inline;
+  position: relative;
+  top: -0.04rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  vertical-align: middle;
+}
+.wall-container .list-content .wall-message .message-photo {
+  max-height: 1.8rem;
+  vertical-align: middle;
+  cursor: pointer;
 }
 .wall-container .list-content .wall-add-time {
   width: 20%;
+  font-size: 0.4rem;
+  font-weight: 200;
+  line-height: 1.9rem;
   box-sizing: border-box;
 }
 .wall-container .list-content .add-thumb {
-  width: 80px;
-  margin-right: -120px;
-  padding-left: 20px;
-  line-height: 70px;
+  width: 1.6rem;
+  margin-right: -2.4rem;
+  padding-left: 0.4rem;
+  line-height: 2.3rem;
   text-align: center;
   border-right: none;
   box-sizing: content-box;
 }
 .wall-container .list-content .add-thumb .thumb-img {
-  width: 30px;
-  height: 30px;
+  width: 0.6rem;
+  height: 0.6rem;
   cursor: pointer;
 }
-.wall-container .list-content:hover {
-  background-color: #E1E2E3;
+/* 照片弹出层 */
+.photo-layer {
+  position: fixed;
+  z-index: 5;
+  padding: 1rem;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  left: 50%;
+  background: rgba(0, 0, 0, 0.4);
+}
+.photo-layer .layer-close-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 0.6rem;
+  height: 0.6rem;
+  cursor: pointer;
+}
+.photo-layer .layer-close-btn .close-btn-img {
+  position: absolute;
+  top: 0.14rem;
+  right: 0.14rem;
+  width: 0.32rem;
+  height: 0.32rem;
+}
+.photo-layer .layer-close-btn:hover {
+  background: red;
+}
+.photo-layer .photo-layer-content {
+  max-height: 12rem;
 }

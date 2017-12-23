@@ -5,13 +5,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad3ff83-2afe-4c40-9e9f-5b7843df1494" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/3d-lines-animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/canvas-renderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/jquery-2.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/projector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/js/three.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/btn/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/img_demo/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/img_demo/photo_demo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/135.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/136.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/137.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/138.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/139.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/140.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/141.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/142.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/143.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/144.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/145.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/146.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/147.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/148.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/149.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/150.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/151.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/152.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/153.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/154.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/155.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/156.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/157.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/158.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/159.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/160.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/161.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/162.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/163.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/164.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/165.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/166.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/167.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/168.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/169.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/170.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/171.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/172.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/173.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/174.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/175.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/176.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/177.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/178.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/179.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/180.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/181.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/182.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/183.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/184.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/185.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/186.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/187.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/188.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/189.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/190.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/191.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/192.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/193.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/194.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/195.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/196.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/197.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/198.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/199.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/201.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/202.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/203.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/205.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/206.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/207.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/208.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/209.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/212.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/213.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/214.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/215.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/218.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/img/wechat/219.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/CSS/styleReset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信墙/CSS/variable.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/微信墙/demo.css" afterPath="$PROJECT_DIR$/微信墙/demo.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/微信墙/demo.html" afterPath="$PROJECT_DIR$/微信墙/demo.html" />
@@ -30,47 +148,107 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="238">
+                    <caret line="86" column="434" selection-start-line="86" selection-start-column="434" selection-end-line="86" selection-end-column="434" />
+                    <folding>
+                      <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                      <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                      <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                      <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                      <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="December_notes" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="391">
+              <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+              <folding>
+                <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
+                <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="demo.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="544">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3d-lines-animation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
+      <file leaf-file-name="styleReset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variable.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/微信墙/CSS/variable.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styleReset.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3d-lines-animation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -81,8 +259,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Less File" />
         <option value="HTML File" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
@@ -102,8 +280,12 @@
         <option value="$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html" />
         <option value="$PROJECT_DIR$/this和对象原型/默认绑定.html" />
         <option value="$PROJECT_DIR$/this和对象原型/隐式绑定.html" />
-        <option value="$PROJECT_DIR$/微信墙/demo.less" />
+        <option value="$PROJECT_DIR$/微信墙/demo.css" />
+        <option value="$PROJECT_DIR$/微信墙/CSS/variable.less" />
+        <option value="$PROJECT_DIR$/微信墙/CSS/styleReset.css" />
+        <option value="$PROJECT_DIR$/微信墙/CSS/styleReset.less" />
         <option value="$PROJECT_DIR$/微信墙/demo.html" />
+        <option value="$PROJECT_DIR$/微信墙/demo.less" />
       </list>
     </option>
   </component>
@@ -209,6 +391,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="微信墙" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="微信墙" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="微信墙" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="this和对象原型" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -243,8 +483,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,6 +499,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyRepository\December_notes\微信墙\img\btn" />
+      <recent name="D:\MyRepository\December_notes\微信墙\img\img_demo" />
+      <recent name="D:\MyRepository\December_notes\微信墙\img" />
       <recent name="D:\MyRepository\December_notes\微信墙" />
     </key>
   </component>
@@ -338,12 +581,13 @@
       <workItem from="1513645132587" duration="599000" />
       <workItem from="1513648230813" duration="17166000" />
       <workItem from="1513728057881" duration="5950000" />
-      <workItem from="1513839476684" duration="5084000" />
+      <workItem from="1513839476684" duration="6284000" />
+      <workItem from="1513940779207" duration="14885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40523000" />
+    <option name="totallyTimeSpent" value="56608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -352,18 +596,18 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22877619" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -388,37 +632,49 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="459">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="646">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html">
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/默认绑定.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/隐式绑定.html">
+    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -426,11 +682,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this和对象原型/默认绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this和对象原型/隐式绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
+          <folding>
+            <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -446,7 +758,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -454,7 +772,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
+          <folding>
+            <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,38 +977,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+          <folding>
+            <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
+            <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/variable.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="86" column="434" selection-start-line="86" selection-start-column="434" selection-end-line="86" selection-end-column="434" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding />
         </state>
       </provider>
