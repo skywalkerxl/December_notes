@@ -5,15 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad3ff83-2afe-4c40-9e9f-5b7843df1494" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/publicStyle.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/CSS3DRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/TrackballControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/three.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/three.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/tween.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/bg/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/jquery-2.1.1.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" afterPath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" afterPath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" afterPath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
     </list>
     <ignored path="December_notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +59,8 @@
             <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="204">
-                    <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
+                  <state relative-caret-position="221">
+                    <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
                     <folding>
                       <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                       <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -60,16 +83,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lottery_matrix.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lottery_matrix.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3DWall.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
               <folding>
-                <element signature="e#3686#4246#0" expanded="false" />
-                <element signature="e#5213#7261#0" expanded="false" />
-                <element signature="e#7670#7854#0" expanded="false" />
-                <element signature="e#7878#7969#0" expanded="false" />
+                <element signature="e#146#890#0" expanded="false" />
+                <element signature="n#!!block;n#transform#0" expanded="false" />
+                <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+                <element signature="n#!!block;n#animate#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -78,8 +111,8 @@
       <file leaf-file-name="publicStyle.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lottery/CSS/publicStyle.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -88,8 +121,8 @@
       <file leaf-file-name="Lottery_matrix.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+            <state relative-caret-position="450">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -112,6 +145,7 @@
       <list>
         <option value="HTML File" />
         <option value="Less File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -142,6 +176,7 @@
         <option value="$PROJECT_DIR$/Lottery/CSS/publicStyle.less" />
         <option value="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
         <option value="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
+        <option value="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
       </list>
     </option>
   </component>
@@ -279,6 +314,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadPhoto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lottery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="December_notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lottery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="CSS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -329,11 +404,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyRepository\December_notes\Lottery" />
       <recent name="D:\MyRepository\December_notes\Lottery\JS" />
-      <recent name="D:\MyRepository\December_notes\微信墙\img\btn" />
-      <recent name="D:\MyRepository\December_notes\微信墙\img\img_demo" />
-      <recent name="D:\MyRepository\December_notes\微信墙\img" />
+      <recent name="D:\MyRepository\December_notes\Lottery\Image\bg" />
+      <recent name="D:\MyRepository\December_notes\Lottery\Image\HeadPhoto" />
+      <recent name="D:\MyRepository\December_notes\Lottery\Image" />
+      <recent name="D:\MyRepository\December_notes\Lottery" />
     </key>
   </component>
   <component name="RunManager">
@@ -418,12 +493,12 @@
       <workItem from="1513648230813" duration="17166000" />
       <workItem from="1513728057881" duration="5950000" />
       <workItem from="1513839476684" duration="6284000" />
-      <workItem from="1513940779207" duration="38580000" />
+      <workItem from="1513940779207" duration="49487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80303000" />
+    <option name="totallyTimeSpent" value="91210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -468,30 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <marker date="1513999837433" expanded="true" signature="24:54" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="62:92" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="96:119" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="124:142" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="147:166" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="180:231" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="320:339" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="1408:1492" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="1553:1613" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="1663:1716" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="1972:1975" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="2149:2170" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="2215:2233" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="3048:3155" placeholder="{...}" />
-            <marker date="1513999837433" expanded="true" signature="3197:3208" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -866,28 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
-          <folding>
-            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/tween.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -904,31 +933,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/tween.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lottery/CSS/publicStyle.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+        <state relative-caret-position="450">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
           <folding>
-            <element signature="e#3686#4246#0" expanded="false" />
-            <element signature="e#5213#7261#0" expanded="false" />
-            <element signature="e#7670#7854#0" expanded="false" />
-            <element signature="e#7878#7969#0" expanded="false" />
+            <element signature="e#146#890#0" expanded="false" />
+            <element signature="n#!!block;n#transform#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
           </folding>
         </state>
       </provider>
