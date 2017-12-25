@@ -4,7 +4,17 @@
 		<title>three.js css3d - periodic table</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-		<link rel="stylesheet" href="CSS/Lottery_matrix.css">
+		<link rel="stylesheet" href="CSS/Rotate/normalize.css">
+        <link rel="stylesheet" href="CSS/Rotate/demo.css">
+        <link rel="stylesheet" href="CSS/Rotate/component.css">
+        <link rel="stylesheet" href="CSS/Lottery_matrix.css">
+        <script>
+            (function () {
+                var html = document.documentElement;
+                hheight = html.getBoundingClientRect().height;
+                html.style.fontSize = hheight / 15 + 'px';
+            })();
+        </script>
 	</head>
 	<body>
         <script src="JS/jquery-2.1.1.min.js"></script>
@@ -12,16 +22,37 @@
 		<script src="js/tween.min.js"></script>
 		<script src="js/TrackballControls.js"></script>
 		<script src="js/CSS3DRenderer.js"></script>
+		<script src="JS/Rotate/modernizr.custom.25376.js"></script>
 
-		<div id="container"></div>
-		<div id="menu">
-            <div class="opt-menu">
-                <button id="stop" class="btn-stop vhidden">停止</button>
-                <button id="start" class="btn-start">开始</button>
-                <img id="price-img" class="prize-img dhidden" src="Image/HeadPhoto/1.jpg">
-                <button id="nothing" class="btn-start vhidden">123s</button>
-            </div>
-		</div>
-    <script src="JS/3DWall.js"></script>
+        <div id="perspective" class="perspective effect-rotateleft">
+            <div class="container" id="container">
+                <div class="wrapper" id="wrapper" >
+                    <div id="3d-wall-container"></div>
+                    <div id="menu">
+                        <div class="opt-menu">
+                            <button id="stop" class="btn-stop vhidden">停止</button>
+                            <button id="start" class="btn-start">开始</button>
+                            <img id="price-img" class="prize-img dhidden" src="Image/HeadPhoto/1.jpg">
+                            <button id="nothing" class="btn-start vhidden">123s</button>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- container -->
+            <nav class="outer-nav right vertical" id="outer-nav">
+                <p href="#" class=""><img src="Image/HeadPhoto/1.jpg"><span>秦厚平</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/2.jpg"><span>吕成成</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/3.jpg"><span>蔡传江</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/10.jpg"><span>徐浪</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/5.jpg"><span>吴冬冬</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/16.jpg"><span>腾庆勇</span></p>
+                <p href="#" class=""><img src="Image/HeadPhoto/7.jpg"><span>方汉</span></p>
+            </nav>
+        </div>
+
+
+
+        <script src="JS/3DWall.js"></script>
+        <script src="JS/Rotate/classie.js"></script>
+        <script src="JS/Rotate/menu.js"></script>
 	</body>
 </html>

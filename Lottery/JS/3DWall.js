@@ -33,8 +33,33 @@ var imgUrl = [
     'Image/HeadPhoto/23.jpg',
     'Image/HeadPhoto/24.jpg',
     'Image/HeadPhoto/25.jpg',
+    'Image/HeadPhoto/26.jpg',
+    'Image/HeadPhoto/27.jpg',
+    'Image/HeadPhoto/28.jpg',
+    'Image/HeadPhoto/29.jpg',
+    'Image/HeadPhoto/30.jpg',
+    'Image/HeadPhoto/31.jpg',
+    'Image/HeadPhoto/32.jpg',
+    'Image/HeadPhoto/33.jpg',
+    'Image/HeadPhoto/34.jpg',
+    'Image/HeadPhoto/35.jpg',
+    'Image/HeadPhoto/36.jpg',
+    'Image/HeadPhoto/37.jpg',
+    'Image/HeadPhoto/38.jpg',
+    'Image/HeadPhoto/39.jpg',
+    'Image/HeadPhoto/40.jpg',
+    'Image/HeadPhoto/41.jpg',
+    'Image/HeadPhoto/42.jpg',
+    'Image/HeadPhoto/43.jpg',
+    'Image/HeadPhoto/44.jpg',
+    'Image/HeadPhoto/45.jpg',
+    'Image/HeadPhoto/46.jpg',
+    'Image/HeadPhoto/47.jpg',
+    'Image/HeadPhoto/48.jpg',
+    'Image/HeadPhoto/49.jpg',
+    'Image/HeadPhoto/50.jpg',
 ]
-var circle_time = 300;
+var circle_time = 200;
 init();
 animate();
 
@@ -46,19 +71,19 @@ function init() {
     scene = new THREE.Scene(); // 这里是创建一个场景
 
     // 这里随机创建初始信息
-    createMatrix(2000);
-    createMatrix(1000);
-    createMatrix(0);
-    createMatrix(-1000);
-    createMatrix(-2000);
-    createMatrix(-3000);
-    createMatrix(-4000);
-    createMatrix(-5000);
+    createMatrixRandom(2000);
+    createMatrixRandom(1000);
+    createMatrixRandom(0);
+    createMatrixRandom(-1000);
+    createMatrixRandom(-2000);
+    createMatrixRandom(-3000);
+    createMatrixRandom(-4000);
+    createMatrixRandom(-5000);
 
     renderer = new THREE.CSS3DRenderer();
     renderer.setSize( window.innerWidth, window.innerHeight );
     renderer.domElement.style.position = 'absolute';
-    document.getElementById( 'container' ).appendChild( renderer.domElement );
+    document.getElementById( '3d-wall-container' ).appendChild( renderer.domElement );
 
     //
 
@@ -106,7 +131,7 @@ function init() {
         $('#stop').removeClass('vhidden');
 
         prize_timer = setInterval(function () {
-            $('#price-img').attr("src", imgUrl[parseInt(Math.random()*25)]);
+            $('#price-img').attr("src", imgUrl[parseInt(Math.random()*50)]);
         }, 100);
 
     }, false)
@@ -181,8 +206,51 @@ function transformStaticTime( targets, duration){
 }
 
 // 创建随机位置的图片
-function createMatrixRandom() {
-    // TODO
+function createMatrixRandom(zPosition) {
+    for ( var i = 0; i < 25 ; i ++ ) {
+
+        if( i == 12){
+            var element = document.createElement( 'div' );
+            element.className = 'element';
+            element.style.backgroundColor = 'transparent';
+            element.style.borderColor = 'transparent';
+            element.style.boxShadow = 'none';
+
+            var object = new THREE.CSS3DObject( element );
+            object.position.x = Math.random() * 4000 - 2000;
+            object.position.y = Math.random() * 4000 - 2000;
+            object.position.z = Math.random() * 5000 - 5000;
+        }else{
+            var element = document.createElement( 'div' );
+            element.className = 'element';
+            element.style.backgroundColor = '#fff';
+
+            var image = document.createElement( 'img' );
+            image.className = 'image-wrapper';
+            image.src = imgUrl[parseInt(Math.random()*50)];
+            element.appendChild( image );
+
+            var object = new THREE.CSS3DObject( element );
+            object.position.x = Math.random() * 5000 - 2000;
+            object.position.y = Math.random() * 5000 - 2000;
+            object.position.z = Math.random() * 5000 - 5000;
+        }
+
+        scene.add( object );
+        objects.push( object );
+    }
+
+    for ( var i = 0; i < 25; i ++ ) {
+
+        var object = new THREE.Object3D();
+
+        object.position.x = ( i % 5 ) * 400 - 800;
+        object.position.y = 800 - Math.floor( i / 5 ) * 400;
+        object.position.z = zPosition;
+
+        targets.grid.push( object );
+
+    }
 }
 
 // 创建规则位置的图片
@@ -208,7 +276,7 @@ function createMatrix(zPosition) {
 
             var image = document.createElement( 'img' );
             image.className = 'image-wrapper';
-            image.src = imgUrl[parseInt(Math.random()*25)];
+            image.src = imgUrl[parseInt(Math.random()*50)];
             element.appendChild( image );
 
             var object = new THREE.CSS3DObject( element );

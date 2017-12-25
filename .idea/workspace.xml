@@ -5,37 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad3ff83-2afe-4c40-9e9f-5b7843df1494" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/bg/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/jquery-2.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/Rotate/component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/Rotate/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/Rotate/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/Rotate/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" afterPath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" afterPath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/JS/3DWall.js" afterPath="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" afterPath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
     </list>
     <ignored path="December_notes.iws" />
@@ -55,12 +69,12 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="221">
-                    <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+                  <state relative-caret-position="204">
+                    <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
                     <folding>
                       <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                       <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -83,27 +97,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lottery_matrix.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Lottery_matrix.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3DWall.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="108" column="41" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1317">
+              <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+              <folding>
+                <element signature="e#234#1932#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classie.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/classie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modernizr.custom.25376.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3DWall.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="60" selection-end-column="1" />
               <folding>
-                <element signature="e#146#890#0" expanded="false" />
                 <element signature="n#!!block;n#transform#0" expanded="false" />
                 <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
                 <element signature="n#!!block;n#animate#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrackballControls.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lottery/JS/TrackballControls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,8 +200,8 @@
       <file leaf-file-name="Lottery_matrix.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -175,8 +254,10 @@
         <option value="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" />
         <option value="$PROJECT_DIR$/Lottery/CSS/publicStyle.less" />
         <option value="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
-        <option value="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
         <option value="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
+        <option value="$PROJECT_DIR$/Lottery/JS/Rotate/menu.js" />
+        <option value="$PROJECT_DIR$/Lottery/CSS/Rotate/component.css" />
+        <option value="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
       </list>
     </option>
   </component>
@@ -250,93 +331,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="微信墙" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="this和对象原型" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Lottery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeadPhoto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,11 +399,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyRepository\December_notes\Lottery\JS" />
-      <recent name="D:\MyRepository\December_notes\Lottery\Image\bg" />
+      <recent name="D:\MyRepository\December_notes\Lottery\CSS" />
+      <recent name="D:\MyRepository\December_notes\Lottery\CSS\Rotate" />
+      <recent name="D:\MyRepository\December_notes\Lottery\JS\Rotate" />
       <recent name="D:\MyRepository\December_notes\Lottery\Image\HeadPhoto" />
-      <recent name="D:\MyRepository\December_notes\Lottery\Image" />
-      <recent name="D:\MyRepository\December_notes\Lottery" />
+      <recent name="D:\MyRepository\December_notes\Lottery\JS" />
     </key>
   </component>
   <component name="RunManager">
@@ -493,12 +488,13 @@
       <workItem from="1513648230813" duration="17166000" />
       <workItem from="1513728057881" duration="5950000" />
       <workItem from="1513839476684" duration="6284000" />
-      <workItem from="1513940779207" duration="49487000" />
+      <workItem from="1513940779207" duration="49896000" />
+      <workItem from="1514162034349" duration="13562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91210000" />
+    <option name="totallyTimeSpent" value="105181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -543,57 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/默认绑定.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/隐式绑定.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -897,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,17 +883,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/TrackballControls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -965,8 +901,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#transform#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding>
+            <element signature="e#234#1932#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1317">
+          <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="108" column="41" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -974,21 +982,8 @@
     <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding>
-            <element signature="e#146#890#0" expanded="false" />
-            <element signature="n#!!block;n#transform#0" expanded="false" />
-            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
-            <element signature="n#!!block;n#animate#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

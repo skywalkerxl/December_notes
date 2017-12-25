@@ -21,7 +21,6 @@ body {
 }
 body {
   background-color: #fff;
-  background-image: url("../Image/bg/bg2.jpg");
   background-size: cover;
   margin: 0;
   font-family: Helvetica, sans-serif;
@@ -67,12 +66,12 @@ a {
   border-radius: 50%;
   border: none;
   outline: none;
-  box-shadow: 0 0 30px #22A7F0;
+  box-shadow: 0 0 30px 10px #22A7F0;
   cursor: pointer;
 }
 #menu .opt-menu .btn-stop {
   background: #C3272B;
-  box-shadow: 0 0 30px #C3272B;
+  box-shadow: 0 0 30px 10px #C3272B;
 }
 #menu .opt-menu .prize-img {
   width: 100px;
