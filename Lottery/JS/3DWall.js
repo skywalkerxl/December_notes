@@ -78,7 +78,6 @@ function init() {
     createMatrixRandom(-2000);
     createMatrixRandom(-3000);
     createMatrixRandom(-4000);
-    createMatrixRandom(-5000);
 
     renderer = new THREE.CSS3DRenderer();
     renderer.setSize( window.innerWidth, window.innerHeight );
