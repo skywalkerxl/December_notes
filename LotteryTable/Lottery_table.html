@@ -105,7 +105,7 @@
 <body class="bgcolor-4">
 <div id="perspective" class="perspective effect-laydown bgcolor-5">
     <div class="container bgcolor-4" id="container">
-        <div class="wrapper bgcolor-4" id="wrapper"><!-- wrapper needed for scroll -->
+        <div class="wrapper bgcolor-4" id="wrapper">
 
         </div><!-- wrapper -->
         <article class="htmleaf-container">
@@ -148,7 +148,6 @@
     var d = 0; // 延迟时间
     var ry, tz, s; // 变换参数
 
-    //animation time
     $(window).on("load", function(){
         storm();
         setTimeout(function () {
@@ -208,94 +207,6 @@
             $(this).css("transform", "translateX("+ -(mx-hWidth/2)/rate +"px) translateY(-50%)");
         })
     }
-    /*$(function() {
-        var oXArr = [];
-        var oYArr = [];
-        var rightArr = [];
-        var leftArr = [];
-        var topArr = [];
-        var downArr = [];
-        var rightMoveL;
-        var leftMoveL;
-        var downMoveL;
-        var upMoveL;
-
-        // var oTop = $('.box-top');
-        // var oBot = $('.box-bot');
-        // var mouse = $('.mouse');
-        var grid = $('#grid');
-        $("#grid").mousemove(function(e) {
-            var obxX = e.pageX;
-            var obxY = e.pageY;
-            oXArr.unshift(obxX);
-            oYArr.unshift(obxY);
-            oXArr.splice(2, 1);
-            oYArr.splice(2, 1);
-
-            // tfo();
-            function tfo() {
-
-                if (oXArr[0] > oXArr[1]) {
-                    console.log("向右");
-                    leftArr = [];
-                    rightArr.push(obxX);
-                    rightMoveL = Math.abs(rightArr[rightArr.length - 1] - rightArr[0]);
-                    // $(grid).css("transform", "translate("+ -rightMoveL*2 +"px, 0px)");
-                    // oTop.html("鼠标向右" + rightMoveL);
-                    console.log(rightMoveL);
-                    return true;
-                } else {
-                    console.log("向左");
-                    rightArr = [];
-                    leftArr.push(obxX);
-                    leftMoveL = Math.abs(leftArr[leftArr.length - 1] - leftArr[0]);
-                    // $(grid).css("transform", "translate("+ leftMoveL*2 +"px, 0px)");
-                    // oTop.html("鼠标向左" + leftMoveL);
-                    console.log(leftMoveL)
-                    return false;
-                }
-            }
-            // tfw();
-            function tfw() {
-                if (oYArr[0] > oYArr[1]) {
-                    console.log("向下");
-                    topArr = [];
-                    downArr.push(obxY);
-                    downMoveL = Math.abs(downArr[downArr.length - 1] - downArr[0]);
-                    // oBot.html("鼠标向下" + downMoveL);
-                    return true;
-                } else {
-                    console.log("向上");
-                    downArr = [];
-                    topArr.push(obxY);
-                    upMoveL = Math.abs(topArr[topArr.length - 1] - topArr[0]);
-                    // oBot.html("鼠标向上" + upMoveL);
-                    return false;
-                }
-            }
-            if (tfo() && tfw()) {
-                //右下
-                console.log("右下");
-                // mouse.html("鼠标向右下");
-
-            } else if (tfo() && !tfw()) {
-                //右上
-                console.log("右上")
-                // mouse.html("鼠标向右上");
-
-            } else if (!tfo() && tfw()) {
-                //左下
-                console.log("左下");
-                // mouse.html("鼠标向左下");
-
-            } else if (!tfo() && !tfw()) {
-                //左上
-                console.log("左上")
-                // mouse.html("鼠标向左上");
-
-            }
-        });
-    });*/
 </script>
 <script src="JS/prefixfree-1.0.7.js" type="text/javascript"></script>
 </body>
