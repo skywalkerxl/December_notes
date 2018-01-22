@@ -1,0 +1,103 @@
+@import "styleReset.less";
+@import "variable.less";
+@import "publicStyle.less";
+
+html, body {
+  height: 100%;
+}
+
+/* 头部部分 */
+.header-section {
+  position: fixed;
+  width: 100%; height: @head-sction-height; background: #fff;
+  border-bottom: 1px solid #000;
+  .head-name {
+    width: 150px; height: @head-sction-height; margin-left: 10%;
+    font-size: 18px;
+  }
+}
+
+/* 中间主体部分 */
+.main-section {
+  position: relative;
+  height: 100%; padding-top: @head-sction-height; padding-bottom: @bottom-section-height;
+  background: url("../img/bg.jpg"); background-size: cover;
+  box-sizing: border-box;
+  .login-box {
+    position: absolute;
+    top:0; bottom: 0; margin-top: auto; right: 15%; margin-bottom: auto; width: 350px; height: 450px;
+    // background: url("../img/bg-img.png"); background-repeat: repeat;
+    background: #f9f9f9;
+    border-radius: 10px;
+    overflow: hidden;
+    .head-name {
+      width: 350px; height: 100px;
+      text-align: center; line-height: 100px; font-size: 30px;
+      // color: #fff;
+    }
+
+    //  登录框
+    .input-wrapper {
+      width: 350px; height: 235px;
+      text-align: center;
+      .username-text {
+        width: 280px; height: 45px; margin-bottom: 30px; padding-left: 20px;
+        font-size: 16px;
+        border-radius: 5px; border: 1px solid #ccc;
+      }
+      .password-text {
+        width: 280px; height: 45px; margin-bottom: 30px; padding-left: 20px;
+        font-size: 16px;
+        border-radius: 5px; border: 1px solid #ccc;
+      }
+      .code-text {
+        width: 130px; height: 45px; margin-bottom: 30px; padding-left: 20px;
+        font-size: 16px; vertical-align: top;
+        border-radius: 5px; border: 1px solid #ccc;
+      }
+      .code-img {
+        display: inline-block;
+        width: 130px; height: 45px; margin-left: 20px;
+      }
+      .username-text,
+      .password-text,
+      .code-text { }
+
+      .username-text:focus,
+      .password-text:focus,
+      .code-text:focus {
+        outline: 0;
+        border-color: rgba(82, 168, 236, .8);
+        -webkit-box-shadow: 0 0 8px rgba(82, 168, 236, .6) ;
+        -moz-box-shadow: 0 0 8px rgba(82, 168, 236, .6) ;
+        box-shadow: 0 0 8px rgba(82, 168, 236, .6) ;
+      }
+    }
+
+    // 登录 重置按钮
+    .opt-wrapper {
+      width: 350px; height: 100px;
+      text-align: center;
+      .login-btn {
+        width: 300px; height: 45px; margin-bottom: 30px;
+        font-size: 16px; color: #fff;
+        cursor: pointer;
+        background: #38adff;
+      }
+
+    }
+  }
+}
+
+/* 底部部分 */
+.footer-section {
+
+}
+
+/* copyRight部分 */
+.copyright-section {
+  position: fixed;
+  bottom: 0; height: @bottom-section-height; width: 100%;
+  text-align: center; line-height: @bottom-section-height; font-size: 12px; color: #fff;
+  background: #000;
+}

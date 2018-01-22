@@ -9,8 +9,6 @@
  * http://www.codrops.com
  */
 (function() {
-
-
     var imgUrl = [
         'Image/HeadPhoto/1.jpg',
         'Image/HeadPhoto/2.jpg',
@@ -92,8 +90,18 @@
 		// click event (if mobile use touchstart)
 		clickevent = mobilecheck() ? 'touchstart' : 'click';
 
+	function detailsContent(data){
+		var arrList = [];
+		for(var index= 0 ;index <data.getPrize.len; index ++){
+			var listContent = '<p class=""><img src="'+ data.getPrize.group[index].imgUrl +'"><span>'+ data.getPrize.group[index].name +'</span></p>'
+			arrList.push(listContent);
+		}
+		arrList.join('');
+		$('#outer-nav').html(arrList)
+	}
+
 	function init() {
-		var showMenu = document.getElementById( 'stop' ),
+		var showMenu = document.getElementById( 'show-details' ),
 			perspectiveWrapper = document.getElementById( 'perspective' ),
 			container = document.getElementById( 'container' ),
 			contentWrapper = document.getElementById( 'wrapper' );
@@ -102,10 +110,7 @@
 			ev.stopPropagation();
 			ev.preventDefault();
 			docscroll = scrollY();
-
-            /*$('#outer-nav').find('p').each(function () {
-                $(this).children('img').attr("src", imgUrl[parseInt(Math.random()*50)]);
-            })*/
+			detailsContent(dataDemo);
 			// change top of contentWrapper
 			contentWrapper.style.top = docscroll * -1 + 'px';
 			// mac chrome issue:

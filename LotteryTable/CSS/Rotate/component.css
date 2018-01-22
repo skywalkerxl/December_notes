@@ -115,7 +115,7 @@ html, body, .perspective {
 }
 
 .outer-nav.top {
-	top: 25%;
+	top: 5%;
 }
 
 .outer-nav.bottom {
@@ -126,6 +126,7 @@ html, body, .perspective {
 	display: inline-block;
 	white-space: nowrap; width: 30.333333%;
 	font-weight: 300;
+	text-align: left;
 	padding: 0 0 30px 0;
 	color: #fff;
 	-webkit-transition: color 0.3s;
@@ -202,17 +203,17 @@ html, body, .perspective {
 	transform: translateY(0) translateZ(0);
 }
 
-.effect-laydown.animate .outer-nav p:nth-child(7){
+.effect-laydown.animate .outer-nav p:first-child{
 	-webkit-transition-delay: 0.0s;
 	transition-delay: 0.0s;
 }
 
-.effect-laydown.animate .outer-nav p:nth-child(6) {
+.effect-laydown.animate .outer-nav p:nth-child(2) {
 	-webkit-transition-delay: 0.4s;
 	transition-delay: 0.4s;
 }
 
-.effect-laydown.animate .outer-nav p:nth-child(5) {
+.effect-laydown.animate .outer-nav p:nth-child(3) {
 	-webkit-transition-delay: 0.8s;
 	transition-delay: 0.8s;
 }
@@ -222,17 +223,72 @@ html, body, .perspective {
 	transition-delay: 1.2s;
 }
 
-.effect-laydown.animate .outer-nav p:nth-child(3) {
+.effect-laydown.animate .outer-nav p:nth-child(5) {
 	-webkit-transition-delay: 1.6s;
 	transition-delay: 1.6s;
 }
 
-.effect-laydown.animate .outer-nav p:nth-child(2) {
+.effect-laydown.animate .outer-nav p:nth-child(6) {
 	-webkit-transition-delay: 2s;
 	transition-delay: 2s;
 }
 
-.effect-laydown.animate .outer-nav p:first-child {
+.effect-laydown.animate .outer-nav p:nth-child(7) {
+	-webkit-transition-delay: 2.4s;
+	transition-delay: 2.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(8) {
+	-webkit-transition-delay: 2.8s;
+	transition-delay: 2.8s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(9) {
+	-webkit-transition-delay: 3.2s;
+	transition-delay: 3.2s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(10) {
+	-webkit-transition-delay: 3.6s;
+	transition-delay: 3.6s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(11) {
+	-webkit-transition-delay: 4s;
+	transition-delay: 4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(12) {
+	-webkit-transition-delay: 4.4s;
+	transition-delay: 4.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(13) {
+	-webkit-transition-delay: 4.8s;
+	transition-delay: 4.8s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(14) {
+	-webkit-transition-delay: 2.4s;
+	transition-delay: 2.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(15) {
+	-webkit-transition-delay: 2.4s;
+	transition-delay: 2.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(16) {
+	-webkit-transition-delay: 2.4s;
+	transition-delay: 2.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(17) {
+	-webkit-transition-delay: 2.4s;
+	transition-delay: 2.4s;
+}
+
+.effect-laydown.animate .outer-nav p:nth-child(18) {
 	-webkit-transition-delay: 2.4s;
 	transition-delay: 2.4s;
 }
@@ -241,7 +297,7 @@ html, body, .perspective {
 @media screen and (max-width: 77em) {
 	
 	.outer-nav.top {
-		top: 15%;
+		top: 10%;
 	}
 
 	.outer-nav.bottom {

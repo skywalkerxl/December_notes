@@ -5,227 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad3ff83-2afe-4c40-9e9f-5b7843df1494" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/Rotate/component.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/Rotate/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/codropsicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/codropsicons/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/fonts/typicons/typicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/CSS/publicStyle.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/HeadPhoto/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Image/bg/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/3DWall.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/CSS3DRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/Rotate/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/Rotate/menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/TrackballControls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/three.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/JS/tween.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lottery/Lottery_matrix.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/CSS/styleReset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/CSS/styleReset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/CSS/variable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/CSS/variable.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/demo.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/btn/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/img_demo/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/img_demo/photo_demo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/100.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/101.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/102.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/103.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/104.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/105.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/106.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/107.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/108.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/109.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/110.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/111.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/112.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/113.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/114.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/115.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/116.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/117.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/118.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/119.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/120.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/121.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/122.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/123.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/124.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/125.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/126.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/127.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/128.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/129.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/130.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/131.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/132.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/133.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/134.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/135.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/136.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/137.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/138.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/139.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/140.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/141.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/142.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/143.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/144.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/145.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/146.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/147.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/148.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/149.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/150.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/151.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/152.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/153.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/154.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/155.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/156.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/157.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/158.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/159.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/160.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/161.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/162.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/163.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/164.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/165.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/166.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/167.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/168.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/169.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/170.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/171.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/172.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/173.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/174.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/175.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/176.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/177.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/178.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/179.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/180.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/181.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/182.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/183.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/184.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/185.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/186.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/187.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/188.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/189.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/190.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/191.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/192.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/193.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/194.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/195.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/196.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/197.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/198.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/199.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/201.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/202.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/203.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/205.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/206.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/207.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/208.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/209.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/210.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/211.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/212.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/213.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/214.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/215.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/216.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/217.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/218.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/img/wechat/219.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/3d-lines-animation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/canvas-renderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/color.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/projector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/js/three.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/noThumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/timeago.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信墙/timeago.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" afterPath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.18/demo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/iziToast.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/login.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/publicStyle.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/styleReset.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/variable.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/bg-img.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/code.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/js/iziToast.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/js/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Login/login.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LotteryTable/CSS/LottreyTable.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LotteryTable/JS/lotteryTable.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" afterPath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" />
+      <change beforePath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" afterPath="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" />
+      <change beforePath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" afterPath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" />
     </list>
     <ignored path="December_notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,85 +36,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="login.less" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Login/css/login.less">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="561">
+                    <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="December_notes" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lottery_table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LotteryTable/Lottery_table.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Login/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-              <folding>
-                <marker date="1514339210901" expanded="true" signature="4889:5142" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lottery_matrix.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lottery3DWall/Lottery_matrix.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="476">
+              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3DWall.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lottery3DWall/JS/3DWall.js">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Login/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3196">
-              <caret line="290" column="37" selection-start-line="290" selection-start-column="37" selection-end-line="290" selection-end-column="37" />
-              <folding>
-                <element signature="e#146#1640#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1853">
-              <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
+            <state relative-caret-position="255">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css">
+      <file leaf-file-name="styleReset.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Login/css/styleReset.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2737">
-              <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/demo.css">
+      <file leaf-file-name="publicStyle.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Login/css/publicStyle.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="normalize.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/normalize.css">
+      <file leaf-file-name="variable.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Login/css/variable.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -325,9 +119,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Less File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -361,39 +155,33 @@
         <option value="$PROJECT_DIR$/Lottery/CSS/Rotate/component.css" />
         <option value="$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
         <option value="$PROJECT_DIR$/Lottery/JS/3DWall.js" />
-        <option value="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" />
-        <option value="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" />
-        <option value="$PROJECT_DIR$/LotteryTable/Lottery_table.html" />
         <option value="$PROJECT_DIR$/Lottery3DWall/Lottery_matrix.html" />
+        <option value="$PROJECT_DIR$/LotteryTable/CSS/default.css" />
+        <option value="$PROJECT_DIR$/LotteryTable/CSS/LottreyTable.less" />
+        <option value="$PROJECT_DIR$/LotteryTable/Lottery_table.html" />
+        <option value="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" />
+        <option value="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" />
+        <option value="$PROJECT_DIR$/12.18/demo.html" />
+        <option value="$PROJECT_DIR$/LotteryTable/JS/lotteryTable.js" />
+        <option value="$PROJECT_DIR$/Login/css/variable.less" />
+        <option value="$PROJECT_DIR$/Login/css/publicStyle.less" />
+        <option value="$PROJECT_DIR$/Login/css/styleReset.less" />
+        <option value="$PROJECT_DIR$/Login/css/login.less" />
+        <option value="$PROJECT_DIR$/Login/login.html" />
+        <option value="$PROJECT_DIR$/Login/js/login.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <OptionsSetting value="true" id="添加" />
-    <OptionsSetting value="true" id="移除" />
-    <OptionsSetting value="true" id="签出" />
-    <OptionsSetting value="true" id="更新" />
-    <OptionsSetting value="true" id="状态" />
-    <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="2" id="添加" />
-    <ConfirmationsSetting value="0" id="移除" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="width" value="942" />
+    <option name="height" value="1077" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -410,220 +198,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WechatWall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotteryTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotteryTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotteryTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rotate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotteryTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotteryTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rotate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery3DWall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery3DWall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lottery3DWall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12.18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="December_notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12.3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="F:/QQDownload/2014中国自媒体年会场景应用demo1226/demo1226" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CoffeeScript" />
+    <property name="settings.editor.splitter.proportion" value="0.22820763" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WechatDev" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -632,14 +248,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyRepository\December_notes\Login\css" />
+      <recent name="D:\MyRepository\December_notes\Login\js" />
+      <recent name="D:\MyRepository\December_notes\Login\img" />
       <recent name="D:\MyRepository\December_notes\LotteryTable\CSS\Rotate" />
       <recent name="D:\MyRepository\December_notes\Lottery\CSS\Rotate" />
-      <recent name="D:\MyRepository\December_notes\LotteryTable\CSS" />
-      <recent name="D:\MyRepository\December_notes\LotteryTable\JS" />
-      <recent name="D:\MyRepository\December_notes\LotteryTable\Image\HeadPhoto" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration name="Lottery_table.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/December_notes/LotteryTable/Lottery_table.html" />
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -669,6 +298,13 @@
       <option name="filePath" />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -676,14 +312,6 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
     </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -696,8 +324,12 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory />
       <recursive>false</recursive>
-      <method />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Lottery_table.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -726,36 +358,52 @@
       <workItem from="1514196728793" duration="8119000" />
       <workItem from="1514247184083" duration="25200000" />
       <workItem from="1514339017982" duration="849000" />
+      <workItem from="1514376457914" duration="599000" />
+      <workItem from="1514380561231" duration="2723000" />
+      <workItem from="1514420856185" duration="17153000" />
+      <workItem from="1514509371466" duration="4128000" />
+      <workItem from="1514522407700" duration="2667000" />
+      <workItem from="1514530145766" duration="4746000" />
+      <workItem from="1514897602673" duration="770000" />
+      <workItem from="1515134454896" duration="900000" />
+      <workItem from="1515504463166" duration="29000" />
+      <workItem from="1516615281230" duration="3698000" />
+      <workItem from="1516619543599" duration="8172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139741000" />
+    <option name="totallyTimeSpent" value="185326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22877619" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13726571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -775,377 +423,240 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数的作用域.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.18/svgDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/初步了解this.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数的作用域.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.18/svgDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/初步了解this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数的作用域.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.3/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.18/svgDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/初步了解this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数的作用域.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/默认绑定.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/this和对象原型/隐式绑定.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js">
+    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js" />
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.css" />
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/variable.less" />
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.css" />
+    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.less" />
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.less" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/tween.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/TrackballControls.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/publicStyle.less" />
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/classie.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/menu.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css" />
+    <entry file="file://$PROJECT_DIR$/微信墙/demo.html" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/CSS3DRenderer.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js" />
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css" />
+    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/component.css" />
+    <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html" />
+    <entry file="file://$PROJECT_DIR$/Lottery3DWall/JS/3DWall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="-544">
+          <caret line="226" column="56" lean-forward="false" selection-start-line="226" selection-start-column="56" selection-end-line="226" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/CSS/variable.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/tween.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/TrackballControls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/CSS/publicStyle.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/modernizr.custom.25376.js">
+    <entry file="file://$PROJECT_DIR$/LotteryTable/JS/prefixfree-1.0.7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/classie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/Rotate/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3349">
-          <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/CSS3DRenderer.js">
+    <entry file="file://$PROJECT_DIR$/LotteryTable/JS/jquery-2.1.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/JS/3DWall.js">
+    <entry file="file://$PROJECT_DIR$/LotteryTable/JS/jquery-1.3.easing.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/default.css">
+    <entry file="file://$PROJECT_DIR$/LotteryTable/JS/Rotate/modernizr.custom.25376.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1997">
-          <caret line="192" column="29" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LotteryTable/JS/Rotate/classie.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Lottery_matrix.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/normalize.css">
+    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/LottreyTable.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/normalize.css" />
     <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        <state relative-caret-position="3451">
+          <caret line="203" column="24" lean-forward="false" selection-start-line="203" selection-start-column="24" selection-end-line="203" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/LottreyTable.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="43" lean-forward="false" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="35" lean-forward="false" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
-          <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
+        <state relative-caret-position="1428">
+          <caret line="84" column="12" lean-forward="false" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+        <state relative-caret-position="3332">
+          <caret line="196" column="11" lean-forward="false" selection-start-line="196" selection-start-column="11" selection-end-line="196" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lottery3DWall/CSS/Rotate/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LotteryTable/JS/lotteryTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/CSS/Rotate/component.css">
+    <entry file="file://$PROJECT_DIR$/12.18/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="64" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery/Lottery_matrix.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LotteryTable/Lottery_table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-          <folding>
-            <marker date="1514339210901" expanded="true" signature="4889:5142" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lottery3DWall/JS/3DWall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3196">
-          <caret line="290" column="37" selection-start-line="290" selection-start-column="37" selection-end-line="290" selection-end-column="37" />
-          <folding>
-            <element signature="e#146#1640#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="30" column="77" lean-forward="false" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lottery3DWall/Lottery_matrix.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        <state relative-caret-position="289">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/img/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/css/variable.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/css/publicStyle.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/css/styleReset.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/css/login.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding />
         </state>
       </provider>

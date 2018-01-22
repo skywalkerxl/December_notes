@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="CSS/Rotate/demo.css">
     <link rel="stylesheet" href="CSS/Rotate/component.css">
     <link rel="stylesheet" href="CSS/default.css">
+    <link rel="stylesheet" href="CSS/LottreyTable.css">
     <script src="JS/Rotate/modernizr.custom.25376.js"></script>
     <script>
         (function () {
@@ -15,115 +16,34 @@
             html.style.fontSize = hHeight / 15 + 'px';
         })();
     </script>
-    <style>
-        * {margin: 0; padding: 0;}
-        body {
-            text-align: center;
-            overflow: hidden;
-        }
-        body, html {
-            height: 100%;
-        }
-        .grid {
-            position: absolute;
-            width: 2800px; left: 50%; top: 50%; margin-left: -1400px;
-            transform: translateY(-50%);
-            perspective: 500px; /*For 3d*/
-        }
-        .grid .img-wrapper {
-            position: relative; float: left;
-            width: 100px; height: 100px; margin-bottom: 31.5px;
-            text-align: center; line-height: 100px;
-            opacity: 0;
-        }
-        .grid .img-wrapper .img-layer {
-            position: absolute; z-index: 2;
-            top: -12.5%; left: -12.5%; width: 125%; height: 125%;
-            clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-            background: #000;
-            opacity: 0;
-            -webkit-transition: all .3s linear;
-            -moz-transition: all .3s linear;
-            -ms-transition: all .3s linear;
-            -o-transition: all .3s linear;
-            transition: all .3s linear;
-        }
-        .grid .img-wrapper .grid-image{
-            position: relative;
-            top: -12.5%; left: -12.5%; width: 125%; height: 125%;
-            clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-        }
-        .grid .img-wrapper .odd {
-            transform: translateY(-62.5px);
-        }
-
-        .opt-menu {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translateX(-50%) translateY(-50%);
-        }
-        .opt-menu .btn-stop,
-        .opt-menu .btn-start {
-            width: 100px;
-            height: 100px;
-            margin: 0 15px;
-            font-size: 20px;
-            color: #fff;
-            vertical-align: middle;
-            background: #22A7F0;
-            border-radius: 50%;
-            border: none;
-            outline: none;
-            cursor: pointer;
-        }
-        .opt-menu .btn-stop {
-            background: #C3272B;
-            box-shadow: 0 0 30px 10px #C3272B;
-        }
-        .btn-start{
-            -webkit-animation: boxShadowChange 2s infinite;
-            -o-animation: boxShadowChange 2s infinite;
-            animation: boxShadowChange 2s infinite;
-        }
-
-        .dhidden {
-            display: none;
-        }
-        .vhidden {
-            visibility: hidden;
-        }
-
-        /* 动画 */
-        @-webkit-keyframes boxShadowChange {
-            0% { box-shadow: 0 0 10px 0 #22A7F0; transform:scale(1); }
-            50% { box-shadow: 0 0 30px 10px #22A7F0; transform:scale(1.5);}
-            100% { box-shadow: 0 0 10px 0 #22A7F0; transform:scale(1);}
-        }
-    </style>
 </head>
 <body class="bgcolor-4">
 <div id="perspective" class="perspective effect-laydown bgcolor-5">
     <div class="container bgcolor-4" id="container">
         <div class="wrapper bgcolor-4" id="wrapper">
-
         </div><!-- wrapper -->
         <article class="htmleaf-container">
             <div class="grid clearfix" id="grid"></div>
 
         </article>
         <div class="opt-menu">
-            <button id="stop" class="btn-stop dhidden">停止</button>
-            <button id="start" class="btn-start dhidden">开始</button>
+            <button id="stop" class="btn-stop menu-btn dhidden">停止</button>
+            <button id="start" class="btn-start menu-btn dhidden">开始</button>
+            <button id="show-details" class="btn-show-details menu-btn dhidden">显示详情</button>
         </div>
     </div><!-- /container -->
-    <nav class="outer-nav top horizontal">
+    <nav class="outer-nav top horizontal" id="outer-nav">
         <p class=""><img src="Image/HeadPhoto/1.jpg"><span>秦厚平</span></p>
         <p class=""><img src="Image/HeadPhoto/2.jpg"><span>吕成成</span></p>
         <p class=""><img src="Image/HeadPhoto/3.jpg"><span>蔡传江</span></p>
         <p class=""><img src="Image/HeadPhoto/10.jpg"><span>徐浪</span></p>
         <p class=""><img src="Image/HeadPhoto/5.jpg"><span>吴冬冬</span></p>
         <p class=""><img src="Image/HeadPhoto/16.jpg"><span>腾庆勇</span></p>
+        <p class=""><img src="Image/HeadPhoto/2.jpg"><span>吕成成</span></p>
+        <p class=""><img src="Image/HeadPhoto/3.jpg"><span>蔡传江</span></p>
+        <p class=""><img src="Image/HeadPhoto/10.jpg"><span>徐浪</span></p>
+        <p class=""><img src="Image/HeadPhoto/5.jpg"><span>吴冬冬</span></p>
+
     </nav>
 </div><!-- /perspective -->
 
@@ -131,82 +51,9 @@
 <script src="JS/jquery-1.3.easing.min.js"></script>
 <script src="JS/Rotate/classie.js"></script>
 <script src="JS/Rotate/menu.js"></script>
-<script>
-    var images = "", count = 139;
-    var timerArr = [];
-    var opacityArr= [0, 0.5, 1];
-    var classSelect = ["even", "odd"];
-    for(var i = 0; i <= count; i++)
-        images +=
-                '<div class="img-wrapper">' +
-                    '<div class="img-layer '+ classSelect[i%2] +'"></div>' +
-                    '<img class="grid-image '+ classSelect[i%2] +'" src="Image/HeadPhoto/'+ parseInt(Math.random()*50) +'.jpg" />' +
-                '</div>';
-
-    $(".grid").append(images);
-
-    var d = 0; // 延迟时间
-    var ry, tz, s; // 变换参数
-
-    $(window).on("load", function(){
-        storm();
-        setTimeout(function () {
-            $('#start').removeClass('dhidden');
-            mouseChangePos();
-        }, 3000)
-    });
-
-    $('#start').on('click', function () {
-        $(this).addClass('dhidden').prev().removeClass('dhidden');
-        for(var i=0; i<timerArr.length; i++){
-            clearInterval(timerArr[i]);
-        }
-        $("div.img-layer").each(function () {
-            var that = this;
-            timerArr.push(setInterval(function () {
-                $(that).css("opacity", opacityArr[parseInt(Math.random()*opacityArr.length)]);
-            }, 300 ));
-        })
-    });
-
-    // 点击结束按钮清楚定时器
-    $('#stop').on('click', function () {
-        $(this).addClass('dhidden').next().removeClass('dhidden')
-        for(var i=0; i<timerArr.length; i++){
-            clearInterval(timerArr[i]);
-        }
-    })
-
-    // 拉回图片
-    function storm()
-    {
-        $("div.img-wrapper").each(function(){
-            d = Math.random()*1000;
-            $(this).delay(d).animate({opacity: 1}, {
-                step: function(n) {
-                    // 在Y轴上旋转images从360度到0度
-                    ry = (1-n)*360;
-                    tz = (1-n)*200;
-                    $(this).css("transform", "rotateY("+ry+"deg) translateZ("+tz+"px)");
-                },
-                duration: 3000,
-                easing: 'easeOutQuint',
-            })
-        })
-    }
-</script>
+<script src="JS/lotteryTable.js"></script>
 <script>
 
-    function mouseChangePos(){
-        var hWidth = $(window).width();
-        var hHeight = $(window).height();
-        var rate = (hWidth/2)/((2800-hWidth)/2);
-        $('#grid').mousemove(function (e) {
-            var mx = e.pageX;
-            var my = e.pageY;
-            $(this).css("transform", "translateX("+ -(mx-hWidth/2)/rate +"px) translateY(-50%)");
-        })
-    }
 </script>
 <script src="JS/prefixfree-1.0.7.js" type="text/javascript"></script>
 </body>

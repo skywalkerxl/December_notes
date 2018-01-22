@@ -1,0 +1,81 @@
+* {margin: 0; padding: 0;}
+body {
+  text-align: center;
+  overflow: hidden;
+}
+body, html {
+  height: 100%;
+}
+.grid {
+  position: absolute;
+  width: 2400px; left: 50%; top: 50%; margin-left: -1200px;
+  transform: translateY(-50%);
+  perspective: 500px; /*For 3d*/
+}
+.grid .img-wrapper {
+  position: relative; float: left;
+  width: 100px; height: 100px; margin-bottom: 30px;
+  text-align: center; line-height: 100px;
+  opacity: 0;
+}
+.grid .img-wrapper .img-layer {
+  position: absolute; z-index: 2;
+  top: -12.5%; left: -12.5%; width: 125%; height: 125%;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  background: #000;
+  opacity: 0;
+  -webkit-transition: all .3s linear;
+  -moz-transition: all .3s linear;
+  -ms-transition: all .3s linear;
+  -o-transition: all .3s linear;
+  transition: all .3s linear;
+}
+.grid .img-wrapper .grid-image{
+  position: relative;
+  top: -12.5%; left: -12.5%; width: 125%; height: 125%;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+.grid .img-wrapper .odd {
+  transform: translateY(-62.5px);
+}
+.opt-menu {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.opt-menu .menu-btn {
+  width: 100px;
+  height: 100px;
+  margin: 0 15px;
+  font-size: 20px;
+  color: #fff;
+  vertical-align: middle;
+  background: #22A7F0;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.opt-menu .btn-stop {
+  background: #C3272B;
+  box-shadow: 0 0 30px 10px #C3272B;
+}
+.btn-start:hover {
+  -webkit-animation: boxShadowChange 1.5s infinite;
+  -o-animation: boxShadowChange 1.5s infinite;
+  animation: boxShadowChange 1.5s infinite;
+}
+.dhidden {
+  display: none;
+}
+.vhidden {
+  visibility: hidden;
+}
+
+/* 动画 */
+@-webkit-keyframes boxShadowChange {
+  0% { box-shadow: 0 0 10px 0 #22A7F0; transform:scale(1); opacity: 1 }
+  50% { box-shadow: 0 0 30px 10px #22A7F0; transform:scale(2); opacity: 1;}
+  100% { box-shadow: 0 0 10px 0 #22A7F0; transform:scale(1); opacity: 1;}
+}
