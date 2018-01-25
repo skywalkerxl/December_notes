@@ -5,27 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad3ff83-2afe-4c40-9e9f-5b7843df1494" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12.18/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/iziToast.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/login.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/publicStyle.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/styleReset.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/css/variable.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/bg-img.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/img/code.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/js/iziToast.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/js/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Login/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LotteryTable/CSS/LottreyTable.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LotteryTable/JS/lotteryTable.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/css/video-js.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/js/video.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/js/videojs-ie8.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/js/zh-CN.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/m.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/media/JJ.mp4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayAnotherDemo/startImg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/css/common.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/css/detail_p.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/css/htmleaf-demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/fonts/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/fonts/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/fonts/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/fonts/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/js/jquery-1.11.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/js/vedio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/media/01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/media/240.mp4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/media/zt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/related/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/videoPlayDemo/related/2.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" afterPath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/component.css" />
-      <change beforePath="$PROJECT_DIR$/LotteryTable/CSS/Rotate/normalize.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" afterPath="$PROJECT_DIR$/LotteryTable/JS/Rotate/menu.js" />
-      <change beforePath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" afterPath="$PROJECT_DIR$/LotteryTable/Lottery_table.html" />
     </list>
     <ignored path="December_notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,78 +43,69 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="login.less" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Login/css/login.less">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="561">
-                    <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="December_notes" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login/login.html">
+      <file leaf-file-name="vedio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayDemo/js/vedio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="0">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Login/js/login.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videoPlayDemo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="221">
+              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styleReset.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login/css/styleReset.less">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publicStyle.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login/css/publicStyle.less">
+      <file leaf-file-name="m.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/m.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zh-CN.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/js/zh-CN.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variable.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login/css/variable.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-              <folding />
-            </state>
+      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayDemo/related/1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videoPlayDemo/related/2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -169,6 +164,9 @@
         <option value="$PROJECT_DIR$/Login/css/login.less" />
         <option value="$PROJECT_DIR$/Login/login.html" />
         <option value="$PROJECT_DIR$/Login/js/login.js" />
+        <option value="$PROJECT_DIR$/videoPlayDemo/index.html" />
+        <option value="$PROJECT_DIR$/videoPlayDemo/js/vedio.js" />
+        <option value="$PROJECT_DIR$/videoPlayAnotherDemo/index.html" />
       </list>
     </option>
   </component>
@@ -198,8 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,25 +211,55 @@
             <path>
               <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="December_notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayAnotherDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayAnotherDemo" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="December_notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayAnotherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="December_notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayAnotherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayDemo" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="December_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="December_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="videoPlayDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="related" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,12 +273,15 @@
     <property name="list.type.of.created.stylesheet" value="Less" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyRepository\December_notes\videoPlayAnotherDemo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyRepository\December_notes\videoPlayAnotherDemo\media" />
+      <recent name="D:\MyRepository\December_notes\videoPlayAnotherDemo" />
+      <recent name="D:\MyRepository\December_notes\videoPlayDemo\media" />
+      <recent name="D:\MyRepository\December_notes\videoPlayDemo" />
       <recent name="D:\MyRepository\December_notes\Login\css" />
-      <recent name="D:\MyRepository\December_notes\Login\js" />
-      <recent name="D:\MyRepository\December_notes\Login\img" />
-      <recent name="D:\MyRepository\December_notes\LotteryTable\CSS\Rotate" />
-      <recent name="D:\MyRepository\December_notes\Lottery\CSS\Rotate" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,28 +397,33 @@
       <workItem from="1515134454896" duration="900000" />
       <workItem from="1515504463166" duration="29000" />
       <workItem from="1516615281230" duration="3698000" />
-      <workItem from="1516619543599" duration="8172000" />
+      <workItem from="1516619543599" duration="9063000" />
+      <workItem from="1516692674818" duration="10892000" />
+      <workItem from="1516776467289" duration="599000" />
+      <workItem from="1516785594397" duration="599000" />
+      <workItem from="1516792360520" duration="5297000" />
+      <workItem from="1516846927950" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185326000" />
+    <option name="totallyTimeSpent" value="204529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13726571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13836825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -423,51 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/this和对象原型/初步了解this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数的作用域.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/this并非指向函数自身.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/调用栈和调用位置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/默认绑定.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/this和对象原型/隐式绑定.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信墙/js/3d-lines-animation.js" />
-    <entry file="file://$PROJECT_DIR$/微信墙/demo.css" />
-    <entry file="file://$PROJECT_DIR$/微信墙/CSS/variable.less" />
     <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.css" />
     <entry file="file://$PROJECT_DIR$/微信墙/CSS/styleReset.less" />
     <entry file="file://$PROJECT_DIR$/微信墙/demo.less" />
@@ -561,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="84" column="12" lean-forward="false" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +618,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayDemo/related/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayDemo/related/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayDemo/js/vedio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/css/video-js.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3417">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/js/zh-CN.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/js/video.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="135" lean-forward="false" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
         </state>
       </provider>
     </entry>
@@ -641,22 +672,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/m.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Login/js/login.js">
+    <entry file="file://$PROJECT_DIR$/videoPlayAnotherDemo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="68">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videoPlayDemo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding />
         </state>
       </provider>
