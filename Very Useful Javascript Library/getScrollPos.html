@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获取滚动位置</title>
+</head>
+<body>
+
+<script>
+    const getScrollPos = (el = window) =>
+        ({
+            x: (el.pageXOffset !== undefined) ? el.pageXOffset : el.scrollLeft,
+            y: (el.pageYOffset !== undefined) ? el.pageYOffset : el.scrollTop
+        })
+
+    let ret = getScrollPos();
+    console.log(ret);
+</script>
+</body>
+</html>

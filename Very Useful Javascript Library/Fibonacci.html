@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fibonacci</title>
+</head>
+<body>
+<script>
+    const fibonacci = n =>
+        Array(n).
+        fill(0).
+        reduce(
+            (acc, val, i) =>
+                acc.concat( i > 1 ? acc[i - 1] + acc[i - 2] : i )
+            ,[]);
+
+    let ret = fibonacci(5);
+    console.log(ret);
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>过滤数组中的非唯一值</title>
+</head>
+<body>
+<script>
+    const filterNonUnique = arr =>
+        arr.filter( i => {
+            return arr.indexOf(i) === arr.lastIndexOf(i)
+        } );
+
+    let ret = filterNonUnique([1,2,3,4,2,1]);
+    console.log(ret);
+</script>
+</body>
+</html>

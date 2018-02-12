@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta charset="utf-8">
-	<title>Video.js 6.2.8</title>
+	<title>视频播放测试</title>
 	<link href="css/video-js.css" rel="stylesheet">
     <style>
         body {
@@ -11,7 +11,7 @@
         .m {
             width: 740px;
             height: 400px;
-            margin-left: auto;
+            margin-left: auto;`
             margin-right: auto;
             margin-top: 100px;
         }
@@ -28,7 +28,18 @@
 <script type="text/javascript">
 
     var startTime = 100;  // 设置播放器的出事播放时间为100
-    var myPlayer = videojs('my-video');
+    var myPlayer = videojs('my-video', {
+
+    },function () {
+        this.on('loadeddata',function(){
+            console.log(this)
+        })
+
+        this.on('ended',function(){
+            this.pause();
+            this.hide()
+        })
+    });
     videojs("my-video").ready(function() {
         var myPlayer = this;
         myPlayer.currentTime(startTime);  // 设置初始化时间为 startTime

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>最大公约数</title>
+</head>
+<body>
+
+<script>
+    const gcd = (x, y) =>
+        !y
+            ? x
+            : gcd( y, x % y);
+
+    let ret = gcd(5, 20);
+    console.log(ret);
+</script>
+</body>
+</html>

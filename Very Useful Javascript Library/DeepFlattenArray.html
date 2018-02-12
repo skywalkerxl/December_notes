@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>深度展开数组</title>
+</head>
+<body>
+
+<script>
+    const deepFlatten = arr =>
+        arr.reduce( (a, v) => {
+            return a.concat(v)
+        }
+    ,[]);
+
+    let ret = deepFlatten([
+        1,
+        2,
+        3]);
+
+    console.log(ret);
+</script>
+</body>
+</html>

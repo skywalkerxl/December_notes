@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flatten 数组</title>
+</head>
+<body>
+<script>
+    const flatten = arr =>
+    {
+        return arr.reduce( (a, v) => {
+            return a.concat(v)
+        }, [])
+    };
+
+    let ret = flatten([1, 2, 3, 4, 5]);
+    console.log(ret);
+</script>
+</body>
+</html>

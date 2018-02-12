@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获取URL参数</title>
+</head>
+<body>
+
+<script>
+    const getUrlParameters = url =>
+        url.match( /([^?=&]+)(=([^&]*))/g ).reduce(
+            /*
+            *  ([^?=&]+) 表示 匹配 ? = & 之后的字符串
+            *  (=([^&]*)) 表示 匹配 = 号后面直到不是 & 符号
+            *
+            * */
+            (a, v) => ( a[v.slice(0, v.indexOf('='))] = v.slice(v.indexOf('=') + 1), a)
+            , {}
+        )
+    let url = "https://juejin.im/post/5a7bf0acf265da4e9449a4b1?utm_source=gold_browser_extension&age=1&name=StanLi";
+    console.log(url.match(/([^?=&]+)(=([^&]*))/g));
+    let ret = getUrlParameters(url);
+    console.log(ret);
+</script>
+</body>
+</html>
